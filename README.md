@@ -91,16 +91,6 @@ An online perfume store built with Laravel, PHP, and MySQL. The project includes
 
 Scripts developed at NeoTelecom to automate network connectivity checks, identify available IP addresses, change PPPoE configurations on Huawei equipment, and enable IPv6.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cesaarchaparro&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cesaarchaparro&layout=compact&theme=tokyonight&hide_border=true)
-
-## 📈 GitHub Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cesaarchaparro&theme=tokyo-night)](https://github.com/cesaarchaparro)
-
 ## 📫 Let's Connect
 
 - **LinkedIn:** [Cesar Chaparro](https://www.linkedin.com/in/cesar-chaparro-60a943315/)
