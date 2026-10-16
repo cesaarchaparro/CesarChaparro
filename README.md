@@ -94,7 +94,6 @@ Scripts developed at NeoTelecom to automate network connectivity checks, identif
 ## 📫 Let's Connect
 
 - **LinkedIn:** [Cesar Chaparro](https://www.linkedin.com/in/cesar-chaparro-60a943315/)
-- **GitHub:** [TU_USUARIO](https://github.com/TU_USUARIO)
 
 ---
 
