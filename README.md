@@ -93,13 +93,13 @@ Scripts developed at NeoTelecom to automate network connectivity checks, identif
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cesaarchaparro&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cesaarchaparro&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 📈 GitHub Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night)](https://github.com/TU_USUARIO)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cesaarchaparro&theme=tokyo-night)](https://github.com/cesaarchaparro)
 
 ## 📫 Let's Connect
 
