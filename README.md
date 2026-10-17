@@ -96,6 +96,3 @@ Scripts developed at NeoTelecom to automate network connectivity checks, identif
 - **LinkedIn:** [Cesar Chaparro](https://www.linkedin.com/in/cesar-chaparro-60a943315/)
 
 ---
-
-⭐ Always learning, building, and automating. Thanks for visiting my profile!
- este es el actual
